@@ -101,7 +101,8 @@ VITE_WEATHER_API_KEY=your_api_key_here
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your app here)*
+> <img width="637" height="903" alt="image" src="https://github.com/user-attachments/assets/64e608ec-9c1c-4a69-b220-0b2a663f0163" />
+
 
 ---
 
